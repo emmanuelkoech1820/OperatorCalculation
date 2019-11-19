@@ -32,7 +32,7 @@ namespace OperatorCalculator
             {
                 Console.WriteLine("The answer is: {0}", number1 * number2);
             }
-            else   //gtghytgcvtcrredef
+            else   //gtghytgcvtcrredef4rdrdrfcdexdexed
             {
                 Console.WriteLine("Invalid Operator");
             }
